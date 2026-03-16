@@ -1,2 +1,3 @@
 # RID144959_DESAFIO1
-Desafio 1 - Landing Page
+link netlify: https://lpdesafio1.netlify.app/
+link da planilha: https://docs.google.com/spreadsheets/d/1hCg2RLVjkUFDBf3cKuvQXO44_ebh32xkAPTcBbVnwlE/edit?gid=0#gid=0
